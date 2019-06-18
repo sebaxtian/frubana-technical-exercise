@@ -1,9 +1,11 @@
 # exercise1
 
-* **Run node app:**
+### Run node app
+```sh
 npm start
-<br>
-* **Example user input:**
+```
+### Example user input
+```sh
 The number of operations: 7
 Operation 1: r 1
 Operation 2: a 1
@@ -12,8 +14,9 @@ Operation 4: a 1
 Operation 5: r 1
 Operation 6: r 2
 Operation 7: r 1
-<br>
-* **Example user input:**
+```
+### Example user input
+```sh
 Wrong!
 1
 1.5
@@ -21,6 +24,8 @@ Wrong!
 1.5
 1
 Wrong!
-<br>
-* **Test app:**
+```
+### Test app
+```sh
 npm test
+```
