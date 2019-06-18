@@ -15,7 +15,7 @@ Operation 5: r 1
 Operation 6: r 2
 Operation 7: r 1
 ```
-### Example user input
+### Example output
 ```sh
 Wrong!
 1
