@@ -1,0 +1,18 @@
+{
+  "name": "exercise2",
+  "version": "1.0.0",
+  "description": "Given an unrooted tree calculate the sum value for each node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tree",
+    "Nodes",
+    "Unrooted",
+    "Sum"
+  ],
+  "author": "Sebastian Rios S.",
+  "license": "MIT"
+}
